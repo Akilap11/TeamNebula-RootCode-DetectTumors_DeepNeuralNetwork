@@ -6,15 +6,6 @@ Welcome to the **rootcode-trilathon_datathon** project's Deep Neural Network (DN
 
 The **rootcode-trilathon_datathon** project aims to develop a robust deep learning solution for detecting brain tumors from medical scans. Brain tumor detection is a critical task in the field of medical diagnostics, and this project leverages the power of deep neural networks to achieve high accuracy and reliability in identifying potential tumors.
 
-## 🚀 Contributors
-
-This project has been developed by the following contributors:
-
-- [Contributor 1 Name](https://github.com/contributor1): Implemented data preprocessing and model architecture.
-- [Contributor 2 Name](https://github.com/contributor2): Contributed to model training and evaluation.
-- [Contributor 3 Name](https://github.com/contributor3): Assisted in dataset curation and documentation.
-
-We appreciate the dedication and effort put in by our contributors to make this project successful.
 
 ## 🔗 Related Topics
 
@@ -25,27 +16,11 @@ This project encompasses several related topics, including but not limited to:
 - **Data Augmentation**: Applying image augmentation strategies to enhance model generalization.
 - **Transfer Learning**: Leveraging pre-trained models for improved performance on limited medical data.
 - **Model Interpretability**: Investigating methods to interpret and visualize neural network decisions.
-- [Add more relevant topics related to medical imaging and deep learning.]
-
-## 💡 Usage
-
-1. Prepare your medical imaging dataset and organize it as specified in `data/README.md`.
-2. Run data preprocessing scripts: `python preprocess.py`
-3. Train the deep neural network: `python train.py`
-4. Evaluate the model: `python evaluate.py`
-
-Feel free to customize the training parameters and hyperparameters in the code to suit your needs.
-
-
-## 📄 License
-
-[Specify the license under which your code is released.]
 
 ## 📧 Contact
 
 If you have questions or suggestions, please feel free to contact us:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- [Project Slack Channel](#): Link to the project's communication channel.
+- Email: [akilatharinda05@gmail.com](akilatharinda05@gmail.com)
 
-Thank you for contributing to the advancement of brain tumor detection through deep learning! We look forward to your involvement in the **rootcode-trilathon_datathon** project.
+Thank You....... (Team Nebula)...
