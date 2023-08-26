@@ -22,5 +22,6 @@ This project encompasses several related topics, including but not limited to:
 If you have questions or suggestions, please feel free to contact us:
 
 - Email: [akilatharinda05@gmail.com](akilatharinda05@gmail.com)
+- Email: [akshithasriyanjith2000@gmail.com](akshithasriyanjith2000@gmail.com)
 
 Thank You....... (Team Nebula)...
