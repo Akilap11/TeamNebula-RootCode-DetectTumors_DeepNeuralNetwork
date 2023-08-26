@@ -27,14 +27,6 @@ This project encompasses several related topics, including but not limited to:
 - **Model Interpretability**: Investigating methods to interpret and visualize neural network decisions.
 - [Add more relevant topics related to medical imaging and deep learning.]
 
-## 🛠 Getting Started
-
-To run the code in this repository, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/rootcode-trilathon_datathon.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. [Provide any other setup or installation instructions.]
-
 ## 💡 Usage
 
 1. Prepare your medical imaging dataset and organize it as specified in `data/README.md`.
@@ -44,17 +36,6 @@ To run the code in this repository, follow these steps:
 
 Feel free to customize the training parameters and hyperparameters in the code to suit your needs.
 
-## 🙌 Contributions
-
-We welcome contributions from the open-source community to enhance this brain tumor detection solution. To contribute:
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your feature description"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request and describe your changes.
-
-Please ensure your contributions adhere to our coding standards and guidelines.
 
 ## 📄 License
 
